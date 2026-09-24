@@ -1,0 +1,33 @@
+# Uso de inteligencia artificial
+
+## Uso de IA en el proyecto heredado
+
+El informe del proyecto heredado indica que parte de la redacción fue apoyada mediante inteligencia artificial. Sin embargo, el archivo original de registro de uso de IA se encontraba incompleto, por lo que no era posible identificar con precisión qué herramienta se utilizó, qué contenido fue generado ni cómo fue verificado. Esto se considera una brecha de trazabilidad del proyecto.
+
+## Uso de IA durante esta revisión
+
+Durante la revisión y reorganización del proyecto se utilizó ChatGPT (OpenAI) como apoyo para:
+
+- analizar la organización y trazabilidad de los archivos;
+- identificar problemas de documentación;
+- revisar relaciones entre datos, fórmulas y resultados;
+- apoyar la redacción de documentación del proyecto, como el README;
+- proponer formas de organizar y documentar las evidencias del trabajo.
+
+## Salidas utilizadas
+
+Las sugerencias de IA se utilizaron como apoyo para la revisión y documentación. No se utilizaron como sustituto de los datos experimentales ni se inventaron unidades, resultados o valores que no estuvieran respaldados por los archivos del proyecto.
+
+## Verificación
+
+La información técnica fue contrastada con los archivos originales y con las fórmulas y resultados observables en Excel.
+
+Se verificó que, utilizando D = 150, el área calculada mediante A = π·D²/4 corresponde aproximadamente a 17671,46.
+
+También se verificó que el valor de `fmax` coincide con el máximo de la columna `sigma`.
+
+Las unidades de las variables no fueron completadas por inferencia, ya que no están especificadas claramente en los archivos heredados y quedaron registradas como un aspecto pendiente de verificación.
+
+## Decisión final
+
+Se conservaron las sugerencias de IA que pudieron ser contrastadas con evidencia del proyecto. Los aspectos que no pudieron verificarse se mantuvieron explícitamente como pendientes, en lugar de completarlos mediante suposiciones.
