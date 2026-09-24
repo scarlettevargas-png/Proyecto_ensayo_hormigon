@@ -8,8 +8,8 @@ Este proyecto organiza y documenta el procesamiento de datos provenientes de un 
 
 - `datos/`: contiene los archivos originales recibidos.
 - `proceso/`: contiene el archivo utilizado para el análisis.
-- `resultados/`: contiene el gráfico obtenido del procesamiento.
-- `documentacion/`: contiene el informe, las notas y la documentación del proyecto.
+- `Resultados/`: contiene el gráfico obtenido del procesamiento.
+- `Documentacion/`: contiene el informe, las notas y la documentación del proyecto.
 ## Entradas
 
 Los archivos originales recibidos corresponden a dos planillas Excel:
